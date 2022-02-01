@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Nwole/whatsapp_Clone/static/css/main.e93e6465.css",
+    "main.js": "/Nwole/whatsapp_Clone/static/js/main.87c4370a.js",
+    "static/js/787.9df3cdb1.chunk.js": "/Nwole/whatsapp_Clone/static/js/787.9df3cdb1.chunk.js",
+    "static/media/face1.jpg": "/Nwole/whatsapp_Clone/static/media/face1.73332e106a0934b00283.jpg",
+    "static/media/face2.jpg": "/Nwole/whatsapp_Clone/static/media/face2.93147d26bb3ca236eda1.jpg",
+    "static/media/sup2.jpg": "/Nwole/whatsapp_Clone/static/media/sup2.7e0140941162f53cf956.jpg",
+    "static/media/ppg.jpg": "/Nwole/whatsapp_Clone/static/media/ppg.1423b07c025abaaf3583.jpg",
+    "static/media/ppp.jpg": "/Nwole/whatsapp_Clone/static/media/ppp.f590b16f6b0ef890029e.jpg",
+    "index.html": "/Nwole/whatsapp_Clone/index.html",
+    "main.e93e6465.css.map": "/Nwole/whatsapp_Clone/static/css/main.e93e6465.css.map",
+    "main.87c4370a.js.map": "/Nwole/whatsapp_Clone/static/js/main.87c4370a.js.map",
+    "787.9df3cdb1.chunk.js.map": "/Nwole/whatsapp_Clone/static/js/787.9df3cdb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e93e6465.css",
+    "static/js/main.87c4370a.js"
+  ]
+}
