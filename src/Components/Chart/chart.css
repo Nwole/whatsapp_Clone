@@ -1,0 +1,80 @@
+.chart{
+    display: flex;
+    flex-direction: column;
+    flex: 0.65;
+}
+.chart_header{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid lightgray;
+}
+.chart_headerInfo{
+    flex: 1;
+    padding-left: 20px;
+}
+.chart_headerTitle{
+    font-size: 16px;
+    font-weight: bold;
+}
+.chart_headerDis{
+    color: gray;
+}
+.chart_body{
+    flex: 1;
+    background-image: url(../../images/sup2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 85%;
+    padding: 30px;
+    overflow: scroll;
+}
+.chart_message{
+    position: relative;
+    font-size: 16px;
+    padding: 10px;
+    width: fit-content;
+    border-radius: 10px;
+    background-color: #ffffff;
+    margin-bottom: 30px;
+}
+.chart_receiver{
+    margin-left: auto;
+    color: black;
+    background-color: rgb(12, 226, 12);
+}
+.chart_timeMap{
+    margin-left: 10px;
+    font-size: xx-small;
+}
+.chart_name{
+    position: absolute;
+    top: -15px;
+    font-size: xx-small ;
+    font-weight: 800;
+}
+.chart_footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 62px;
+    border-top: 1px solid lightgray;
+}
+.chart__footerForm{
+    flex: 1;
+    display: flex;
+}
+.chart__footerInput{
+    flex: 1;
+    border-radius: 30px;
+    padding: 10px;
+    border: none;
+}
+.chart__footerButton{
+    display: none;
+}
+.chart_footer>.MuiSvgIcon-root{
+    padding: 10px;
+    color: gray;
+}
